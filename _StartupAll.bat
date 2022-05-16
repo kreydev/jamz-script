@@ -3,4 +3,4 @@ powershell .\wallpaper.ps1
 cd Installers
 _Installers-Setup-All.bat
 cd ..
-
+_Update.bat
