@@ -1,3 +1,4 @@
 spotifysetup
+discordsetup
 powershell ./install-scoop.ps1
-scoop install git
+powershell ./other-scoops/InstallGit.bat
