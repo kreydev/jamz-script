@@ -16,4 +16,5 @@ public class Wallpaper
 "@
 Add-Type -TypeDefinition $setwallpapersrc
 
-[Wallpaper]::SetWallpaper("H:\desktop wallpapers\bgnewmc.png")
+$wallpaperPath = Read-Host "Please copy your image as a path here"
+[Wallpaper]::SetWallpaper($wallpaperPath)
