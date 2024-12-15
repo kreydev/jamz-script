@@ -1,3 +1,3 @@
-# school-startup
+# jamz-script
 
-Just a little startup script I made for school computers
+Just a little startup script I made so setup is less bad
